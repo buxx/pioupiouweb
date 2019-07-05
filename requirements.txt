@@ -1,2 +1,2 @@
 bottle
-git+https://framagit.org/inkhey/pioupiou.git
+pioupiou
